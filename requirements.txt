@@ -1,0 +1,8 @@
+asyncio
+aioredis
+gino
+aiocache
+ujson
+defusedxml
+bcrypt
+uvloop; sys_platform != 'win32'
